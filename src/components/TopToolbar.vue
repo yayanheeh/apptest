@@ -30,7 +30,7 @@
     <v-app-bar
       app
       fixed
-      dark
+      light
       color="light"
     >
       <v-app-bar-nav-icon @click.stop="toggleMenu"></v-app-bar-nav-icon>
